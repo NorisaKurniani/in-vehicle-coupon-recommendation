@@ -1,21 +1,24 @@
 # in-vehicle-coupon-recommendation
-ROLE
-Sebagai konsultan di perusahaan Deep Learning 4.0, kami tim data science diminta untuk membuat model prediksi coupon acceptance berdasarkan dataset yang tersedia guna meningkatkan efektivitas dalam pemberian kupon kepada pengemudi di jalan.
+Data set source : https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation
 
-PROBLEM STATEMENT
-Pemberian kupon merupakan salah satu cara untuk meningkatkan revenue dan mendapatkan pelanggan baru dalam sebuah bisnis. Berdasarkan pemberian kupon, 69% mereka akan merasa menjadi pelanggan yang pintar[2], 60% pelanggan akan mencoba produk baru[2], 54% melakukan pembelian impulsif[2], 88% pelanggan akan menggunakan kuponnya[3]. Hal tersebut menjadikan pemberian kupon salah satu metode untuk meningkatkan revenue dalam bisnis.
-Berdasarkan dari dataset yang dimiliki, hanya terdapat 56.84% pengemudi yang menerima kupon. Hal ini akan menimbulkan tidak optimalnya profit terhadap campaign kupon tersebut, karena biaya yang dikeluarkan untuk campaign kupon lebih besar dibandingkan revenue dengan tidak banyaknya pelanggan yang menerima kupon.
+STAGE 0 : Preparation 
+Role
+Problem Statement
+Goal and Objective
+Business Metrics
 
-GOAL
-Meningkatkan jumlah penerima kupon terhadap pengemudi di jalan
+STAGE 1 : EDA, Insight & Visualization
+Data Exploration
+Exploratory Data Analysis
+Business Insight & Visualization
 
-OBJECTIVE
-Membuat model yang dapat memprediksi dan menghasilkan rekomendasi (karakteristik pengemudi) yang tepat untuk menjadi leads sebagai penerima kupon
+STAGE 2 : Data Pre-Processing
+Data Cleansing
+Feature Engineering
+-example : feature transformation, feature encoding
 
-BUSINESS METRICS
-Coupon acceptance
+STAGE 3 :Machine Learning Modeling & Evaluation
+Modeling
+Evaluation
 
-REFFERENCE
-[1] The Pros & Cons Of Using Coupons For Your Business (investopedia.com)
-[2] Valassis Research: Coupons and Discounts Appeal Far Beyond Savings - Valassis
-[3] Coupon Statistics - Is Couponing Growing or Slowing? (spendmenot.com)
+STAGE 4 : Final Preparation
